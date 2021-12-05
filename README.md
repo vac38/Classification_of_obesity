@@ -29,4 +29,4 @@ Models evaluation based on :
 13) Heidke Skill Score (HSS)
 
 
-#Outcome: Random forest outperforms ass other models. 
+#Outcome: Random forest outperforms all other models. 
